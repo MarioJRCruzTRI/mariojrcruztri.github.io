@@ -1,0 +1,2 @@
+# mariojrcruztri.github.io
+HomeAssistantDomain
